@@ -1,1 +1,1 @@
-# ComputerEngineering-UPC
+# ComputerScience-UPC
